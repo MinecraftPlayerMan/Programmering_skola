@@ -11,7 +11,7 @@ string matte1, svar;
 bool loop = true;
 while (loop == true) {
 
-
+// lägger in en rad...
 cout << "Skriv in ett tal sedan ett räknesättet sedan ett tal: ";
 
 cin >> tal1 >> matte1 >> tal2; 
